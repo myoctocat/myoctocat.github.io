@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[markdown语法笔记]]></title>
+    <url>%2F2016%2F04%2F09%2Fmarkdown%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[写作介绍1，字体介绍这是斜体 或 这也是斜体这是粗体这是加粗斜体这是删除线 2，分级标题一级标题二级标题三级标题四级标题五级标题六级标题3，超链接写法： 行内形式：我的博客参考形式：[我的博客][1]，有一个很好的平台-[简书][2][1]:https://xfbxfbxfb.github.io/[2]:http://www.jianshu.com/自动链接：我的博客地址https://xfbxfbxfb.github.io/ 4,列表无序列表：写法： 无序列表项1 无序列表项2 无序列表项3 有序列表：写法：1.有序列表项12.有序列表项23.有序列表项3 5，插入图片在 Hexo 中插入图片，首先需要将图片放在 source/img/ 文件夹下，然后如下方式进行插入： 6，表格 表头1 表头2 表头3 表头4 默认左对齐 左对齐 居中对其 右对齐 默认左对齐 左对齐 居中对其 右对齐 默认左对齐 左对齐 居中对其 右对齐 ———————]]></content>
+      <categories>
+        <category>经验</category>
+        <category>分享</category>
+        <category>测试分类</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+        <tag>教程</tag>
+        <tag>经验</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[代码块]]></title>
+    <url>%2F2016%2F03%2F28%2F%E4%BB%A3%E7%A0%81%E5%9D%97%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[下面是代码块 1234function fun()&#123; echo &quot;这是一句非常牛逼的代码&quot;;&#125;fun(); 1alert(&apos;Hello World!&apos;);]]></content>
+      <categories>
+        <category>经验</category>
+        <category>测试分类</category>
+      </categories>
+      <tags>
+        <tag>经验</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2016%2F03%2F27%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[网站搭建]]></title>
+    <url>%2F2016%2F03%2F27%2F%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%2F</url>
+    <content type="text"><![CDATA[##搭建博客网站 ###步骤]]></content>
+      <categories>
+        <category>经验</category>
+        <category>分享</category>
+        <category>测试分类</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
